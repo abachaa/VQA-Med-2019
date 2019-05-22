@@ -23,7 +23,7 @@ Reference:
 -------------------
 
 If you use the VQA-Med 2019 data, please cite our paper:
-"VQA-Med: Overview of the Medical Visual Question Answering Task at ImageCLEF 2019". Asma Ben Abacha, Sadid A. Hasan, Vivek V. Datla, Joey Liu, Dina Demner-Fushman, Henning Müller. CLEF 2019 Working Notes.  
+"VQA-Med: Overview of the Medical Visual Question Answering Task at ImageCLEF 2019". Asma Ben Abacha, Sadid A. Hasan, Vivek V. Datla, Joey Liu, Dina Demner-Fushman, Henning MÃ¼ller. CLEF 2019 Working Notes.  
 
 @Inproceedings{ImageCLEFVQA-Med2019,
         author = {Asma {Ben Abacha} and Sadid A. Hasan and Vivek V. Datla and Joey Liu and Dina Demner-Fushman and Henning M\"uller},
