@@ -1,0 +1,500 @@
+synpic54082|what modality is shown?
+synpic48556|was the mri taken with contrast?
+synpic50696|what type of contrast did this patient have?
+synpic37194|what imaging method was used?
+synpic31308|what modality is shown?
+synpic24739|what is the mr weighting in this image?
+synpic32365|is this a ct scan?
+synpic47936|what type of contrast did this patient have?
+synpic29792|was iv contrast given to the patient?
+synpic43561|was the ct scan taken with contrast?
+synpic40732|what imaging modality was used to take this image?
+synpic33904|was the ct scan taken with contrast?
+synpic39583|is this a noncontrast mri?
+synpic39568|what type of image modality is seen?
+synpic27024|is this a ct scan?
+synpic25155|is this image modality t1, t2, or flair?
+synpic52493|what type of imaging is this?
+synpic53941|what imaging modality was used to take this image?
+synpic58343|what imaging modality was used to take this image?
+synpic48150|was the ct scan taken with contrast?
+synpic26892|was gi contrast given to the patient?
+synpic48805|was the ct scan taken with contrast?
+synpic41996|is this a noncontrast mri?
+synpic52901|is this a t1 weighted, t2 weighted, or flair image?
+synpic26702|is this an mri image?
+synpic36075|is this a ct scan?
+synpic15874|is this a noncontrast ct?
+synpic28538|what modality is shown?
+synpic45924|which image modality is this?
+synpic24458|what imaging modality was used to take this image?
+synpic34139|what was this image taken with?
+synpic58746|is this a contrast or noncontrast ct?
+synpic36276|is 	this a t1 weighted image?
+synpic46949|what imaging modality is used to acquire this picture?
+synpic60018|is this image modality t1, t2, or flair?
+synpic14955|what type of imaging modality is shown?
+synpic38267|was the mri taken with contrast?
+synpic18809|what type of imaging modality is shown?
+synpic55706|is this a t2 weighted image?
+synpic51206|is this an mri image?
+synpic46829|is this a noncontrast ct?
+synpic24706|was gi contrast given to the patient?
+synpic22377|what imaging modality is used?
+synpic43979|what imaging modality is used to acquire this picture?
+synpic32831|is this a noncontrast ct?
+synpic33285|was the ct scan taken with contrast?
+synpic55100|was the ct scan taken with contrast?
+synpic48384|what type of imaging does this represent?
+synpic59289|what type of contrast did this patient have?
+synpic54975|is this a noncontrast mri?
+synpic51170|was the ct scan taken with contrast?
+synpic40069|is this a contrast or noncontrast ct?
+synpic51160|how was the image taken?
+synpic18560|is this a contrast or noncontrast ct?
+synpic51606|what kind of scan is this?
+synpic19859|what type of imaging modality is seen in this image?
+synpic27747|is this a noncontrast ct?
+synpic13384|what type of image modality is seen?
+synpic59702|is this a noncontrast mri?
+synpic60197|was iv contrast given to the patient?
+synpic56425|what type of image modality is seen?
+synpic33295|what modality was used to take this image?
+synpic43772|is this a ct scan?
+synpic56394|what imaging modality was used to take this image?
+synpic33518|is this a contrast or noncontrast mri?
+synpic28138|was the ct scan taken with contrast?
+synpic31469|is this a contrast or noncontrast ct?
+synpic35155|what imaging modality was used to take this image?
+synpic40333|how was this image taken?
+synpic41011|is this a t2 weighted image?
+synpic51202|what imaging modality was used to take this image?
+synpic44800|is this a contrast or noncontrast ct?
+synpic59851|how was this image taken?
+synpic35747|what imaging modality was used to take this image?
+synpic54150|what imaging modality was used to take this image?
+synpic25024|is this a ct scan?
+synpic34128|what type of imaging modality is seen in this image?
+synpic45935|is this a contrast or noncontrast ct?
+synpic19086|what imaging modality was used to take this image?
+synpic35578|is this a noncontrast mri?
+synpic51767|what imaging modality was used to take this image?
+synpic27197|was gi contrast given to the patient?
+synpic44430|is this a contrast or noncontrast mri?
+synpic46964|with what modality is this image taken?
+synpic41979|what type of imaging modality is shown?
+synpic32773|what type of image modality is this?
+synpic31285|is this an mri image?
+synpic40440|was gi contrast given to the patient?
+synpic22366|which image modality is this?
+synpic100408|what type of image modality is this?
+synpic50733|is this a noncontrast ct?
+synpic49262|is this a t2 weighted image?
+synpic27752|what imaging modality is used to acquire this picture?
+synpic53951|was the mri taken with contrast?
+synpic24501|what type of imaging modality is shown?
+synpic52497|is this a t2 weighted image?
+synpic47924|what type of imaging modality is used to acquire the image?
+synpic22825|what imaging modality was used to take this image?
+synpic18213|what imaging method was used?
+synpic34909|is this a noncontrast mri?
+synpic56154|is this a t1 weighted image?
+synpic39585|is this a t1 weighted, t2 weighted, or flair image?
+synpic16994|is this a t1 weighted, t2 weighted, or flair image?
+synpic51407|is this a ct scan?
+synpic37609|what modality is shown?
+synpic27432|what type of imaging modality is shown?
+synpic28715|was the ct scan taken with contrast?
+synpic53600|is this a t2 weighted image?
+synpic40697|is this a ct scan?
+synpic41589|what imaging modality was used to take this image?
+synpic24310|is this a noncontrast ct?
+synpic51770|was gi contrast given to the patient?
+synpic47890|what imaging modality was used to take this image?
+synpic40127|what is the mr weighting in this image?
+synpic37634|is this a noncontrast mri?
+synpic26922|what type of imaging modality is shown?
+synpic37740|is this a t1 weighted, t2 weighted, or flair image?
+synpic28890|is this a contrast or noncontrast ct?
+synpic49513|what imaging modality was used to take this image?
+synpic52133|what kind of scan is this?
+synpic24258|is this a ct scan?
+synpic21334|is this an mri image?
+synpic45842|is 	this a t1 weighted image?
+synpic37595|what type of imaging modality is shown?
+synpic55335|is this an mri image?
+synpic56130|what is the plane of the ct scan?
+synpic21435|in what plane is this ct scan?
+synpic39252|what imaging plane is depicted here?
+synpic23785|what is the plane of the ct scan?
+synpic58323|in what plane is this mri captured?
+synpic51449|which plane is the image taken?
+synpic39087|what image plane is this?
+synpic16716|which plane is the image shown in?
+synpic54525|in what plane was this image taken?
+synpic38372|in what plane is this ct scan?
+synpic39865|what imaging plane is depicted here?
+synpic58519|what plane was used in this ct scan?
+synpic26986|in what plane is this image taken?
+synpic58294|in which plane is the mri displayed?
+synpic24161|which plane is this image in?
+synpic26010|what plane is this?
+synpic36217|what plane is the image acquired in?
+synpic56736|what plane is this mri in?
+synpic44454|what plane was used in this ct scan?
+synpic54653|in what plane is this mri?
+synpic56044|which plane is this image taken?
+synpic21569|what plane is this?
+synpic59376|in what plane is this image taken?
+synpic55564|in what plane was this image taken?
+synpic34367|in what plane is this image oriented?
+synpic48079|what plane is this film
+synpic35657|in what plane is this x-ray?
+synpic27290|which plane is this mri taken in?
+synpic29040|in what plane is this image oriented?
+synpic27737|what is the plane of this x-ray?
+synpic39290|which plane is the image taken?
+synpic27906|in what plane is this image taken?
+synpic58863|in what plane is this ct scan?
+synpic46888|which plane is this image in?
+synpic20264|which plane is this image in?
+synpic38359|what is the plane of the image?
+synpic36374|what plane was used?
+synpic41842|in what plane is this image taken?
+synpic21783|what plane is this?
+synpic57403|what image plane is this?
+synpic17769|what imaging plane is depicted here?
+synpic59360|in what plane is this angiogram taken?
+synpic15817|what is the plane?
+synpic51932|what is the plane of the image?
+synpic32067|what plane was used?
+synpic16112|what plane is the image acquired in?
+synpic39867|in which plane is the mri displayed?
+synpic35132|what image plane is this?
+synpic28605|what is the plane of the image?
+synpic56442|what plane is demonstrated?
+synpic52142|in what plane is this mri taken?
+synpic51311|what plane is this ct scan in?
+synpic41102|what is the plane?
+synpic37080|what plane is demonstrated?
+synpic54719|in what plane is this image taken?
+synpic43507|in which plane is the x-ray displayed?
+synpic58325|what imaging plane is depicted here?
+synpic55832|in what plane is this image taken?
+synpic43936|what plane was used in this ct scan?
+synpic61201|in what plane is this ultrasound?
+synpic18885|what plane is this?
+synpic44136|what plane is the image acquired in?
+synpic16894|what is the plane of the ct scan?
+synpic51261|in what plane was this image taken?
+synpic34406|which plane is this image taken?
+synpic41927|in what plane is this image oriented?
+synpic50433|what imaging plane is depicted here?
+synpic26566|what plane is seen?
+synpic53852|in what plane is this ct scan?
+synpic41503|which plane is the image shown in?
+synpic45003|in what plane is this mri?
+synpic25536|what plane was used?
+synpic41932|what is the plane of this ct scan?
+synpic20466|what is the plane of this mri?
+synpic16881|in which plane is the x-ray displayed?
+synpic52027|what is the plane?
+synpic32894|in what plane is this x-ray taken?
+synpic35645|what plane is this film
+synpic27282|in what plane is this image taken?
+synpic37250|what plane is the image acquired in?
+synpic27725|in what plane is this ct scan?
+synpic17194|which plane is the image shown in?
+synpic21397|what plane is the image acquired in?
+synpic52423|which plane is the image taken?
+synpic42156|what plane was used in this ct scan?
+synpic51894|what is the plane of the image?
+synpic38836|in what plane is this image taken?
+synpic54736|in which plane is the ct scan displayed?
+synpic53065|in what plane is this mri?
+synpic43510|in what plane is this ultrasound taken?
+synpic53717|in what plane was this image taken?
+synpic60336|what plane is this ct scan in?
+synpic8584|in what plane is this ct scan captured?
+synpic43048|what plane was used in this mri?
+synpic27294|which plane is this image in?
+synpic28170|what image plane is this?
+synpic100253|what is the plane of the x-ray?
+synpic37124|which plane is this image in?
+synpic54130|in what plane is this ct scan taken?
+synpic27647|which plane is the image shown in?
+synpic41919|in what plane is this mri taken?
+synpic57835|in what plane was this image taken?
+synpic23193|what plane was used in this ct scan?
+synpic27256|what plane was used in this x-ray?
+synpic32897|what is the plane of the x-ray?
+synpic53299|what plane is seen?
+synpic32698|in what plane is this x-ray taken?
+synpic49799|what is the plane?
+synpic60451|in which plane is the x-ray displayed?
+synpic51667|in what plane is this image taken?
+synpic53064|in what plane was this image taken?
+synpic59213|what plane is this?
+synpic53981|what plane was used in this mri?
+synpic53995|what plane was used in this ct scan?
+synpic59260|which plane is this mri taken in?
+synpic56806|what plane is this mri in?
+synpic55670|what plane is seen?
+synpic23916|in what plane is this ct scan?
+synpic47328|what is the plane?
+synpic50132|in what plane is this ct scan?
+synpic28076|what is the plane of this mri?
+synpic44351|which plane is this mri taken in?
+synpic24314|which plane is the image taken?
+synpic31739|which plane is this x-ray taken in?
+synpic25598|in what plane is this mammograph?
+synpic16333|what organ system is displayed in this ct scan?
+synpic53848|what is the organ principally shown in this mri?
+synpic31015|which organ is captured by this mri?
+synpic56918|what organ system is evaluated primarily?
+synpic26227|what organ system is evaluated primarily?
+synpic31996|what is one organ system seen in this image?
+synpic40809|what organ system is being imaged?
+synpic46288|what organ system is primarily present in this image?
+synpic58908|which organ system is imaged?
+synpic37465|what organ system is being imaged?
+synpic57420|which organ system is shown in the mri?
+synpic28035|what organ system is evaluated primarily?
+synpic18684|what organ system is evaluated primarily?
+synpic40389|what organ is this image of?
+synpic26781|what organ system is shown in the image?
+synpic32938|what organ system is primarily present in this image?
+synpic40410|what organ system is imaged?
+synpic35919|what organ system is imaged?
+synpic48716|what organ system is primarily present in this image?
+synpic34030|what part of the body does this x-ray show?
+synpic33039|what part of the body does this ct scan show?
+synpic19161|what part of the body is being imaged?
+synpic40028|what organ system is shown in this x-ray?
+synpic43535|what is the organ system in this image?
+synpic53726|which organ is captured by this ct scan?
+synpic51866|what organ system is imaged?
+synpic20053|what organ system is shown in the image?
+synpic4164|what organ system is pictured here?
+synpic20286|which organ system is imaged?
+synpic16734|what organ is this x-ray showing?
+synpic36341|what organ system is displayed in this mri?
+synpic55037|what organ systems can be evaluated with this mri?
+synpic33417|what organ system is evaluated primarily?
+synpic22526|what organ system is displayed in this x-ray?
+synpic21749|what organ system is visualized?
+synpic59180|what organ system is visualized?
+synpic34807|what organ system is visualized?
+synpic50359|what organ system is pictured here?
+synpic26581|what part of the body is being imaged?
+synpic56072|what organ system is evaluated primarily?
+synpic49807|what part of the body is being imaged here?
+synpic27890|the ultrasound shows what organ system?
+synpic37328|which organ system is imaged?
+synpic50370|which organ system is shown in the mri?
+synpic32052|what is the organ system in this image?
+synpic42589|what organ system is imaged?
+synpic56271|what organ system is imaged?
+synpic46738|which organ system is shown in the ct scan?
+synpic50006|which organ is captured by this ct scan?
+synpic50984|what organ system is pictured here?
+synpic26351|what organ is this mri showing?
+synpic19837|what organ system is primarily present in this image?
+synpic56107|what organ system is primarily present in this image?
+synpic19614|which organ system is shown in the ct scan?
+synpic56103|which organ system is shown in the ct scan?
+synpic9653|what organ system is shown in the image?
+synpic49779|what organ is this image of?
+synpic39275|what is the organ principally shown in this mri?
+synpic30245|what organ system is visualized?
+synpic45180|what organ system is shown in this mri?
+synpic26194|which organ system is shown in the ct scan?
+synpic53251|what part of the body is being imaged here?
+synpic16094|what organ system is being imaged?
+synpic36422|what organ is this image of?
+synpic35881|what is the organ system in this image?
+synpic25310|which organ is captured by this mri?
+synpic28973|what organ is this image showing?
+synpic50638|what organ system is primarily present in this image?
+synpic49369|what organ systems can be evaluated with this ct scan?
+synpic36218|what part of the body is being imaged?
+synpic47608|what organ system is being imaged?
+synpic46516|what organ systems can be evaluated with this mri?
+synpic55230|what organ system is evaluated primarily?
+synpic39301|what organ is this mri showing?
+synpic12184|what part of the body is being imaged here?
+synpic35275|what organ system is evaluated primarily?
+synpic39472|what organ system is pictured here?
+synpic19991|what organ system is primarily present in this image?
+synpic38220|what organ system is primarily present in this image?
+synpic41907|what organ is this image of?
+synpic38591|what part of the body is being imaged here?
+synpic25311|what organ system is pictured here?
+synpic47557|what organ system is pictured here?
+synpic50003|what organ system is primarily present in this image?
+synpic18251|what organ system is primarily present in this image?
+synpic16242|what organ system is imaged?
+synpic47964|which organ is captured by this mri?
+synpic25139|what organ system is pictured here?
+synpic56302|what organ system is shown in the image?
+synpic52164|the ct scan shows what organ system?
+synpic45430|what organ system is primarily present in this image?
+synpic38424|what organ system is primarily present in this image?
+synpic18938|what organ system is evaluated primarily?
+synpic54475|what organ system is visualized?
+synpic46071|what part of the body does this mri show?
+synpic16108|what organ system is pictured here?
+synpic26975|which organ is captured by this ultrasound?
+synpic41736|what organ systems can be evaluated with this x-ray?
+synpic52038|what part of the body is being imaged?
+synpic41044|which organ system is shown in the mri?
+synpic26752|what organ system is pictured here?
+synpic21029|what organ system is shown in the image?
+synpic28025|what part of the body is being imaged?
+synpic27699|what organ system is shown in the image?
+synpic44464|what organ system is visualized?
+synpic58717|what part of the body is being imaged here?
+synpic47804|what organ system is displayed in this ct scan?
+synpic16487|what organ system is being imaged?
+synpic19950|what organ system is being imaged?
+synpic33613|what organ system is visualized?
+synpic47187|what organ is this image of?
+synpic58925|which organ system is imaged?
+synpic58716|what organ system is imaged?
+synpic42982|what organ system is evaluated primarily?
+synpic50835|what organ system is displayed in this ct scan?
+synpic31561|what part of the body is being imaged?
+synpic37104|the mri shows what organ system?
+synpic22284|what organ is this image of?
+synpic21941|what organ system is shown in the image?
+synpic35129|what organ system is being imaged?
+synpic26814|what is the organ principally shown in this mri?
+synpic100313|what organ is this x-ray showing?
+synpic454|which organ system is imaged?
+synpic50558|what part of the body is being imaged?
+synpic55352|what part of the body is being imaged?
+synpic47476|is there something wrong in the image?
+synpic58354|is this a normal ultrasound?
+synpic39386|does this image look normal?
+synpic25627|does this image look normal?
+synpic49505|is this image normal?
+synpic28985|is the ultrasound normal?
+synpic29794|is this a normal ct scan?
+synpic45122|is the ct scan normal?
+synpic100563|is this image normal?
+synpic25614|is there something wrong in the image?
+synpic53988|what is the primary abnormality in this image?
+synpic23260|what is abnormal in the ct scan?
+synpic18584|what is the primary abnormality in this image?
+synpic36889|what is abnormal in the ct scan?
+synpic55889|what is the primary abnormality in this image?
+synpic47679|what is most alarming about this ultrasound?
+synpic48238|what is most alarming about this gastrointestinal image?
+synpic23472|what is most alarming about this ct scan?
+synpic20621|what is most alarming about this x-ray?
+synpic33890|what abnormality is seen in the image?
+synpic21502|what is most alarming about this ct scan?
+synpic23315|what is most alarming about this ct scan?
+synpic59863|what is abnormal in the mri?
+synpic52063|what is most alarming about this ultrasound?
+synpic43973|what is most alarming about this ct scan?
+synpic33264|what is most alarming about this ct scan?
+synpic35832|what is most alarming about this mri?
+synpic36678|what abnormality is seen in the image?
+synpic36693|what abnormality is seen in the image?
+synpic59524|what is the primary abnormality in this image?
+synpic23288|what is abnormal in the ct scan?
+synpic58148|what is abnormal in the mri?
+synpic54202|what is the primary abnormality in this image?
+synpic54570|what is the primary abnormality in this image?
+synpic25389|what is most alarming about this ct scan?
+synpic28646|what is most alarming about this ct scan?
+synpic35171|what is abnormal in the ct scan?
+synpic45521|what is the primary abnormality in this image?
+synpic42299|what is abnormal in the mri?
+synpic56944|what is most alarming about this x-ray?
+synpic38736|what is most alarming about this ultrasound?
+synpic31074|what abnormality is seen in the image?
+synpic31921|what is the primary abnormality in this image?
+synpic59690|what is most alarming about this ct scan?
+synpic50844|what abnormality is seen in the image?
+synpic31510|what is the primary abnormality in this image?
+synpic58565|what is the primary abnormality in this image?
+synpic48819|what is abnormal in the x-ray?
+synpic43958|what is abnormal in the mri?
+synpic19471|what is most alarming about this gastrointestinal image?
+synpic51409|what abnormality is seen in the image?
+synpic46175|what is abnormal in the ct scan?
+synpic41140|what is abnormal in the ct scan?
+synpic19459|what abnormality is seen in the image?
+synpic59243|what is most alarming about this mri?
+synpic23931|what is the primary abnormality in this image?
+synpic52110|what is most alarming about this mri?
+synpic24938|what is abnormal in the mri?
+synpic44969|what is abnormal in the ct scan?
+synpic41839|what is the primary abnormality in this image?
+synpic100560|what abnormality is seen in the image?
+synpic40312|what is abnormal in the gastrointestinal image?
+synpic39606|what abnormality is seen in the image?
+synpic35996|what abnormality is seen in the image?
+synpic54398|what is most alarming about this ct scan?
+synpic57322|what is most alarming about this ct scan?
+synpic22025|what is abnormal in the ct scan?
+synpic24332|what is abnormal in the ct scan?
+synpic31918|what abnormality is seen in the image?
+synpic33464|what is most alarming about this ct scan?
+synpic24681|what is most alarming about this ct scan?
+synpic19500|what is abnormal in the ultrasound?
+synpic28642|what is abnormal in the gastrointestinal image?
+synpic60174|what is most alarming about this ct scan?
+synpic28495|what is abnormal in the gastrointestinal image?
+synpic51803|what is abnormal in the ct scan?
+synpic28324|what is the primary abnormality in this image?
+synpic50710|what abnormality is seen in the image?
+synpic60189|what is most alarming about this ct scan?
+synpic59091|what abnormality is seen in the image?
+synpic39017|what is most alarming about this mri?
+synpic37984|what is the primary abnormality in this image?
+synpic53580|what is most alarming about this mri?
+synpic50923|what is abnormal in the mri?
+synpic32787|what is abnormal in the ultrasound?
+synpic35942|what is the primary abnormality in this image?
+synpic16143|what is most alarming about this nuclear medicine image?
+synpic36293|what abnormality is seen in the image?
+synpic55708|what is abnormal in the mri?
+synpic23846|what is most alarming about this ct scan?
+synpic58210|what is most alarming about this mri?
+synpic34453|what is most alarming about this ct scan?
+synpic24668|what is the primary abnormality in this image?
+synpic25012|what is most alarming about this mri?
+synpic51792|what abnormality is seen in the image?
+synpic25761|what is the primary abnormality in this image?
+synpic51976|what is abnormal in the ct scan?
+synpic53807|what is abnormal in the mri?
+synpic18351|what is most alarming about this ct scan?
+synpic43433|what abnormality is seen in the image?
+synpic28709|what is most alarming about this angiogram?
+synpic58577|what abnormality is seen in the image?
+synpic47443|what abnormality is seen in the image?
+synpic50705|what is most alarming about this mri?
+synpic49254|what is abnormal in the ct scan?
+synpic43590|what is abnormal in the x-ray?
+synpic53967|what is abnormal in the mri?
+synpic45637|what abnormality is seen in the image?
+synpic33979|what is abnormal in the ct scan?
+synpic47008|what is abnormal in the mri?
+synpic58869|what is the primary abnormality in this image?
+synpic38637|is there an abnormality in the mri?
+synpic39501|what is the primary abnormality in this image?
+synpic47961|what abnormality is seen in the image?
+synpic47550|what is the primary abnormality in this image?
+synpic55154|what is most alarming about this mri?
+synpic28154|what is the primary abnormality in this image?
+synpic58276|what is abnormal in the mri?
+synpic39844|what is abnormal in the mri?
+synpic24183|what is the primary abnormality in this image?
+synpic21789|what is abnormal in the ct scan?
+synpic39878|what is most alarming about this mri?
+synpic41525|what is most alarming about this ct scan?
+synpic18173|what is the primary abnormality in this image?
+synpic54143|what is the primary abnormality in this image?
