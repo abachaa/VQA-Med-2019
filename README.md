@@ -1,7 +1,9 @@
 # VQA-Med-2019
 
 Website: https://www.imageclef.org/2019/medical/vqa/
+
 Data and Results on crowdAI: https://www.crowdai.org/challenges/imageclef-2019-vqa-med 
+
 Mailing list: https://groups.google.com/d/forum/imageclef-vqa-med 
 
 Task:
