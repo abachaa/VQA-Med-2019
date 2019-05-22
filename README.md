@@ -14,9 +14,9 @@ VQA-Med-2 Data:
 -------------------
 The datasets include a training set of 3,200 medical images with 12,792 Question-Answer (QA) pairs, a validation set of 500 medical images with 2,000 QA pairs, and a test set of 500 medical images with 500 questions. The training and validation sets are available here: https://www.crowdai.org/clef_tasks/13/task_dataset_files?challenge_id=53
 
-Please see the readme file of the crowdAI dataset section for more detailed information about the datasets and the categories of questions and answers.  
+Please see the readme files for more detailed information about the datasets and the categories of questions and answers.  
 
-The VQA-Med 2019 Test Set and the reference answers are available here: 
+The VQA-Med 2019 Test Set and the reference answers are available here: https://github.com/abachaa/VQA-Med-2019/tree/master/VQAMed2019Test  
 
 Reference: 
 -------------------
