@@ -22,7 +22,7 @@ synpic35171|abnormality|what is abnormal in the ct scan?|(angioinvasive aspergil
 Reference: 
 -------------------
 
-If you use the VQA-Med 2019 data, please cite our paper:
+If you use the VQA-Med-2019 dataset, please cite our paper:
 "VQA-Med: Overview of the Medical Visual Question Answering Task at ImageCLEF 2019". Asma Ben Abacha, Sadid A. Hasan, Vivek V. Datla, Joey Liu, Dina Demner-Fushman, Henning Müller. CLEF 2019 Working Notes.  
 
 @Inproceedings{ImageCLEFVQA-Med2019,
