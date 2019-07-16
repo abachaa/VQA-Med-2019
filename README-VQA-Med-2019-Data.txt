@@ -2,7 +2,12 @@
 VQA-Med @ ImageClef 2019
 ========================
 
-Training and Validation Sets: 
+** The test set is available here: https://github.com/abachaa/VQA-Med-2019/tree/master/VQAMed2019Test 
+     (Readme file: https://github.com/abachaa/VQA-Med-2019/blob/master/VQAMed2019Test/README-VQA-Med-2019-TestSet.txt) 
+
+Training and Validation Sets:
+-------------------------------
+
 https://github.com/abachaa/VQA-Med-2019/blob/master/ImageClef-2019-VQA-Med-Training.zip
 https://github.com/abachaa/VQA-Med-2019/blob/master/ImageClef-2019-VQA-Med-Validation.zip
 
