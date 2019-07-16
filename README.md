@@ -1,8 +1,8 @@
 # VQA-Med-2019
 
 - Website: https://www.imageclef.org/2019/medical/vqa/
-- Results of the VQA-Med-2019 challenge on crowdAI: https://www.crowdai.org/challenges/imageclef-2019-vqa-med/leaderboards
 - Mailing list: https://groups.google.com/d/forum/imageclef-vqa-med 
+- Results of the VQA-Med-2019 challenge on crowdAI: https://www.crowdai.org/challenges/imageclef-2019-vqa-med/leaderboards 
 
 Task:
 -------------------
@@ -18,7 +18,9 @@ The VQA-Med-2019 dataset includes a training set of 3,200 medical images with 12
 
 3) The VQA-Med-2019 test set and the reference answers are available here: https://github.com/abachaa/VQA-Med-2019/tree/master/VQAMed2019Test  
 
-Please see the readme files for more detailed information about the datasets and the categories of questions and answers.  
+Please see the readme files for more detailed information about the dataset and the categories of questions and answers:
+https://github.com/abachaa/VQA-Med-2019/blob/master/README-VQA-Med-2019-Data.txt
+https://github.com/abachaa/VQA-Med-2019/blob/master/VQAMed2019Test/README-VQA-Med-2019-TestSet.txt
 
 Reference: 
 -------------------
