@@ -2,7 +2,9 @@
 VQA-Med @ ImageClef 2019
 ========================
 
-Datasets:
+Training and Validation Sets: 
+https://github.com/abachaa/VQA-Med-2019/blob/master/ImageClef-2019-VQA-Med-Training.zip
+https://github.com/abachaa/VQA-Med-2019/blob/master/ImageClef-2019-VQA-Med-Validation.zip
 
 - Training set: 3,200 images with 12,792 Question-Answer (QA) pairs.
 - Validation set: 500 images with 2,000 QA pairs.
@@ -114,7 +116,7 @@ PET - Positron Emission
 Reference: 
 -------------------
 
-If you use the VQA-Med 2019 data, please cite our paper:
+If you use the VQA-Med-2019 dataset, please cite our paper:
 "VQA-Med: Overview of the Medical Visual Question Answering Task at ImageCLEF 2019". Asma Ben Abacha, Sadid A. Hasan, Vivek V. Datla, Joey Liu, Dina Demner-Fushman, Henning Müller. CLEF 2019 Working Notes.  
 
 @Inproceedings{ImageCLEFVQA-Med2019,
