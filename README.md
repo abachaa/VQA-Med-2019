@@ -1,27 +1,29 @@
 # VQA-Med-2019
 
-Website: https://www.imageclef.org/2019/medical/vqa/
-
-Data and Results on crowdAI: https://www.crowdai.org/challenges/imageclef-2019-vqa-med 
-
-Mailing list: https://groups.google.com/d/forum/imageclef-vqa-med 
+- Website: https://www.imageclef.org/2019/medical/vqa/
+- Results of the VQA-Med-2019 challenge on crowdAI: https://www.crowdai.org/challenges/imageclef-2019-vqa-med/leaderboards
+- Mailing list: https://groups.google.com/d/forum/imageclef-vqa-med 
 
 Task:
 -------------------
-VQA-Med 2019 focused on radiology images and four main categories of questions: Modality, Plane, Organ system and Abnormality. In this second edition of the VQA challenge, we targeted medical questions asking about one element only (e.g. what is the organ principally shown in this mri? in what plane is this mammograph taken? is this a t1 weighted, t2 weighted, or flair image? what is most alarming about this ultrasound?), and that can be answered from the image content without requiring medical knowledge or domain-specific inference. Thus, we did not target questions such as: "Is this modality safe for pregnant women?", "What is located immediately inferior to the right hemidiaphragm?", "What can be typically visualized in this plane?", "How would you measure the length of the kidneys?". These kinds of questions will be tackled in future editions of the challenge. 
+VQA-Med 2019 focused on radiology images and four main categories of questions: Modality, Plane, Organ system and Abnormality. These categories are designed with different degrees of difficulty leveraging both classification and text generation approaches. In this second edition of the VQA challenge, we targeted medical questions asking about one element only (e.g. what is the organ principally shown in this mri? in what plane is this mammograph taken? is this a t1 weighted, t2 weighted, or flair image? what is most alarming about this ultrasound?), and that can be answered from the image content without requiring additional medical knowledge or domain-specific inference.  
 
-VQA-Med-2 Data:
+VQA-Med-2019 Data:
 -------------------
-The datasets include a training set of 3,200 medical images with 12,792 Question-Answer (QA) pairs, a validation set of 500 medical images with 2,000 QA pairs, and a test set of 500 medical images with 500 questions. The training and validation sets are available here: https://www.crowdai.org/clef_tasks/13/task_dataset_files?challenge_id=53
+The VQA-Med-2019 dataset includes a training set of 3,200 medical images with 12,792 Question-Answer (QA) pairs, a validation set of 500 medical images with 2,000 QA pairs, and a test set of 500 medical images with 500 questions. 
+
+1) The training set: https://github.com/abachaa/VQA-Med-2019/blob/master/ImageClef-2019-VQA-Med-Training.zip  
+
+2) The validation set: https://github.com/abachaa/VQA-Med-2019/blob/master/ImageClef-2019-VQA-Med-Validation.zip
+
+3) The VQA-Med-2019 test set and the reference answers are available here: https://github.com/abachaa/VQA-Med-2019/tree/master/VQAMed2019Test  
 
 Please see the readme files for more detailed information about the datasets and the categories of questions and answers.  
-
-The VQA-Med 2019 Test Set and the reference answers are available here: https://github.com/abachaa/VQA-Med-2019/tree/master/VQAMed2019Test  
 
 Reference: 
 -------------------
 
-If you use the VQA-Med 2019 datasets, please cite our paper:
+If you use the VQA-Med 2019 dataset, please cite our paper:
 "VQA-Med: Overview of the Medical Visual Question Answering Task at ImageCLEF 2019". Asma Ben Abacha, Sadid A. Hasan, Vivek V. Datla, Joey Liu, Dina Demner-Fushman, Henning Müller. CLEF 2019 Working Notes.  
 
 @Inproceedings{ImageCLEFVQA-Med2019,
