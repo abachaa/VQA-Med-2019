@@ -2,6 +2,7 @@
 
 - Website: https://www.imageclef.org/2019/medical/vqa/
 - Mailing list: https://groups.google.com/d/forum/imageclef-vqa-med 
+- Paper: http://ceur-ws.org/Vol-2380/paper_272.pdf
 - Results of the VQA-Med-2019 challenge on crowdAI: https://www.crowdai.org/challenges/imageclef-2019-vqa-med/leaderboards 
 
 Task:
