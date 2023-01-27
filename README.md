@@ -47,6 +47,3 @@ If you use the VQA-Med 2019 dataset, please cite our paper:
         address = {Lugano, Switzerland}
         }
         
- Contact Information
- -------------------
-Asma Ben Abacha: asma.benabacha@nih.gov   https://sites.google.com/site/asmabenabacha/
