@@ -23,7 +23,7 @@ Reference:
 -------------------
 
 If you use the VQA-Med-2019 dataset, please cite our paper:
-"VQA-Med: Overview of the Medical Visual Question Answering Task at ImageCLEF 2019". Asma Ben Abacha, Sadid A. Hasan, Vivek V. Datla, Joey Liu, Dina Demner-Fushman, Henning Müller. CLEF 2019 Working Notes.  
+"VQA-Med: Overview of the Medical Visual Question Answering Task at ImageCLEF 2019". Asma Ben Abacha, Sadid A. Hasan, Vivek V. Datla, Joey Liu, Dina Demner-Fushman, Henning Müller. CLEF 2019 Working Notes. https://ceur-ws.org/Vol-2380/paper_272.pdf
 
 @Inproceedings{ImageCLEFVQA-Med2019,
         author = {Asma {Ben Abacha} and Sadid A. Hasan and Vivek V. Datla and Joey Liu and Dina Demner-Fushman and Henning M\"uller},
@@ -31,11 +31,7 @@ If you use the VQA-Med-2019 dataset, please cite our paper:
         booktitle = {CLEF 2019 Working Notes},
         series = {{CEUR} Workshop Proceedings},
         year = {2019},
-        publisher = {CEUR-WS.org $<$http://ceur-ws.org$>$},
+        publisher = {CEUR-WS.org},
         month = {September 9-12},
         address = {Lugano, Switzerland}
         }
-        
- Contact Information
- --------------------------
-Asma Ben Abacha: asma.benabacha@nih.gov   https://sites.google.com/site/asmabenabacha/
