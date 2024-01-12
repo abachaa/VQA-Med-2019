@@ -8,8 +8,7 @@ VQA-Med @ ImageClef 2019
 Training and Validation Sets:
 -------------------------------
 
-https://github.com/abachaa/VQA-Med-2019/blob/master/ImageClef-2019-VQA-Med-Training.zip
-https://github.com/abachaa/VQA-Med-2019/blob/master/ImageClef-2019-VQA-Med-Validation.zip
+All datasets are available at: https://zenodo.org/records/10499039 
 
 - Training set: 3,200 images with 12,792 Question-Answer (QA) pairs.
 - Validation set: 500 images with 2,000 QA pairs.
@@ -130,11 +129,7 @@ If you use the VQA-Med-2019 dataset, please cite our paper:
         booktitle = {CLEF 2019 Working Notes},
         series = {{CEUR} Workshop Proceedings},
         year = {2019},
-        publisher = {CEUR-WS.org $<$http://ceur-ws.org$>$},
+        publisher = {CEUR-WS.org}, 
         month = {September 9-12},
         address = {Lugano, Switzerland}
         }
-        
- Contact Information
- --------------------------
-Asma Ben Abacha: asma.benabacha@nih.gov   https://sites.google.com/site/asmabenabacha/
