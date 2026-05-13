@@ -20,32 +20,38 @@ The VQA-Med-2019 dataset includes a training set of 3,200 medical images with 12
 Please see the readme files [[1]](https://github.com/abachaa/VQA-Med-2019/blob/master/README-VQA-Med-2019-Data.txt) [[2]](https://github.com/abachaa/VQA-Med-2019/blob/master/VQAMed2019Test/README-VQA-Med-2019-TestSet.txt) for more detailed information about the dataset and the categories of questions and answers.
 
 
-Reference: 
+License: 
 -------------------
 
-If you use the VQA-Med 2019 dataset, please cite our paper:
-"VQA-Med: Overview of the Medical Visual Question Answering Task at ImageCLEF 2019". Asma Ben Abacha, Sadid A. Hasan, Vivek V. Datla, Joey Liu, Dina Demner-Fushman, Henning Müller. Working Notes of CLEF 2019. Paper available at: <https://ceur-ws.org/Vol-2380/paper_272.pdf>   
+This work is released under the Creative Commons Attribution 4.0 International License ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)). 
+If you use the VQA-Med 2019 dataset, please cite our paper: 
+
+- "VQA-Med: Overview of the Medical Visual Question Answering Task at ImageCLEF 2019". Asma Ben Abacha, Sadid A. Hasan, Vivek V. Datla, Joey Liu, Dina Demner-Fushman, Henning Müller. Working Notes of CLEF 2019. Paper available at: <https://ceur-ws.org/Vol-2380/paper_272.pdf>   
 
 
-@Inproceedings{ImageCLEFVQA-Med2019,
+         @Inproceedings{ImageCLEFVQA-Med2019,
 
-        author = {Asma {Ben Abacha} and Sadid A. Hasan and Vivek V. Datla and Joey Liu and Dina Demner-Fushman and Henning M\"uller},
+         author = {Asma {Ben Abacha} and Sadid A. Hasan and Vivek V. Datla and Joey Liu and Dina Demner-Fushman and Henning M\"uller},
         
-        title = {VQA-Med: Overview of the Medical Visual Question Answering Task at ImageCLEF 2019},
+         title = {VQA-Med: Overview of the Medical Visual Question Answering Task at ImageCLEF 2019},
 
-        url = {https://ceur-ws.org/Vol-2380/paper\_272.pdf}
+         url = {https://ceur-ws.org/Vol-2380/paper\_272.pdf}
         
-        booktitle = {Working Notes of {CLEF} 2019},
+         booktitle = {Working Notes of {CLEF} 2019},
         
-        series = {{CEUR} Workshop Proceedings},
+         series = {{CEUR} Workshop Proceedings},
 
-        volume       = {2380},
+         volume       = {2380},
         
-        year = {2019},
+         year = {2019},
         
-        publisher    = {CEUR-WS.org}, 
+         publisher    = {CEUR-WS.org}, 
         
-        month = {September 9-12},
+         month = {September 9-12},
         
-        address = {Lugano, Switzerland}
-        }
+         address = {Lugano, Switzerland}}
+
+
+Contact Information:
+--------------------
+Asma Ben Abacha: asma.benabacha AT gmail.com      https://sites.google.com/site/asmabenabacha/
